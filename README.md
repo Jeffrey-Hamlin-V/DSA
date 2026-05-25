@@ -2,7 +2,7 @@
 
 # 🃏 NeetCode 75 — DSA Progress Tracker
 
-![Progress](https://img.shields.io/badge/Progress-0%2F75-red?style=flat-square)
+![Progress](https://img.shields.io/badge/Progress-1%2F75-orange?style=flat-square)
 
 *Solving one problem at a time. Consistency over intensity.*
 
@@ -10,11 +10,11 @@
 
 ---
 
-## 📂 Arrays & Hashing — 0 / 8
+## 📂 Arrays & Hashing — 1 / 8
 
 | # | Problem | Difficulty | Solution | Status |
 |---|---------|------------|----------|--------|
-| 1 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | | ⬜ |
+| 1 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | [`Arrays/217.Contains Duplicate.py`](Arrays/217.Contains%20Duplicate.py) | ✅ |
 | 2 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | | ⬜ |
 | 3 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | | ⬜ |
 | 4 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | | ⬜ |
