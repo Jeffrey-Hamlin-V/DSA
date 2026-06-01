@@ -207,3 +207,10 @@
 <div align="center">
 <sub>🃏 Built in the dark, shipped before dawn ⚡</sub>
 </div>
+
+---
+
+## Changelog
+
+- 2026-06-01: README updated and pushed.
+
