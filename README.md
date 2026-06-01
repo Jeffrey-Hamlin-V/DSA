@@ -2,7 +2,7 @@
 
 # 🃏 NeetCode 75 — DSA Progress Tracker
 
-![Progress](https://img.shields.io/badge/Progress-2%2F75-brightgreen?style=flat-square)
+![Progress](https://img.shields.io/badge/Progress-3%2F75-brightgreen?style=flat-square)
 
 *Solving one problem at a time. Consistency over intensity.*
 
@@ -10,13 +10,13 @@
 
 ---
 
-## 📂 Arrays & Hashing — 2 / 8
+## 📂 Arrays & Hashing — 3 / 8
 
 | # | Problem | Difficulty | Solution | Status |
 |---|---------|------------|----------|--------|
 | 1 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | [`Arrays/217_Contains Duplicate.py`](Arrays/217_Contains%20Duplicate.py) | ✅ |
 | 2 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | [`Arrays/242_Valid Anagram.py`](Arrays/242_Valid%20Anagram.py) | ✅ |
-| 3 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | | ⬜ |
+| 3 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [`Arrays/1_Two Sum.py`](Arrays/1_Two%20Sum.py) | ✅ |
 | 4 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | | ⬜ |
 | 5 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | | ⬜ |
 | 6 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | Medium | | ⬜ |
@@ -212,5 +212,5 @@
 
 ## Changelog
 
-- 2026-06-01: README updated and pushed.
+- 2026-06-01: Updated README with Two Sum solution and updated progress to 3/75.
 
