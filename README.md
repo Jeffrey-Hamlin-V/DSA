@@ -2,7 +2,7 @@
 
 # 🃏 NeetCode 75 — DSA Progress Tracker
 
-![Progress](https://img.shields.io/badge/Progress-3%2F75-brightgreen?style=flat-square)
+![Progress](https://img.shields.io/badge/Progress-7%2F75-brightgreen?style=flat-square)
 
 *Solving one problem at a time. Consistency over intensity.*
 
@@ -10,17 +10,17 @@
 
 ---
 
-## 📂 Arrays & Hashing — 3 / 8
+## 📂 Arrays & Hashing — 7 / 8
 
 | # | Problem | Difficulty | Solution | Status |
 |---|---------|------------|----------|--------|
 | 1 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | [`Arrays/217_Contains Duplicate.py`](Arrays/217_Contains%20Duplicate.py) | ✅ |
 | 2 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | [`Arrays/242_Valid Anagram.py`](Arrays/242_Valid%20Anagram.py) | ✅ |
 | 3 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [`Arrays/1_Two Sum.py`](Arrays/1_Two%20Sum.py) | ✅ |
-| 4 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | | ⬜ |
-| 5 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | | ⬜ |
-| 6 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | Medium | | ⬜ |
-| 7 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | | ⬜ |
+| 4 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | [`Arrays/49_Group Anagrams.py`](Arrays/49_Group%20Anagrams.py) | ✅ |
+| 5 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | [`Arrays/347_Top K Frequent Elements.py`](Arrays/347_Top%20K%20Frequent%20Elements.py) | ✅ |
+| 6 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | Medium | [`Arrays/Encode & Decode Strings.py`](Arrays/Encode%20%26%20Decode%20Strings.py) | ✅ |
+| 7 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | [`Arrays/238_Product of array except self.py`](Arrays/238_Product%20of%20array%20except%20self.py) | ✅ |
 | 8 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | | ⬜ |
 
 ---
@@ -212,5 +212,6 @@
 
 ## Changelog
 
+- 2026-06-05: Updated README with Group Anagrams, Top K Frequent Elements, Encode & Decode Strings, and Product of Array Except Self. Updated progress to 7/75.
 - 2026-06-01: Updated README with Two Sum solution and updated progress to 3/75.
 
