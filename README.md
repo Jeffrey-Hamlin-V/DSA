@@ -2,7 +2,7 @@
 
 # 🃏 NeetCode 75 — DSA Progress Tracker
 
-![Progress](https://img.shields.io/badge/Progress-8%2F75-brightgreen?style=flat-square)
+![Progress](https://img.shields.io/badge/Progress-11%2F75-brightgreen?style=flat-square)
 
 *Solving one problem at a time. Consistency over intensity.*
 
@@ -25,13 +25,13 @@
 
 ---
 
-## 👉 Two Pointers — 0 / 3
+## 👉 Two Pointers — 3 / 3
 
 | # | Problem | Difficulty | Solution | Status |
 |---|---------|------------|----------|--------|
-| 9 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | | ⬜ |
-| 10 | [3Sum](https://leetcode.com/problems/3sum/) | Medium | | ⬜ |
-| 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | | ⬜ |
+| 9 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | [`Two Pointers/125_Valid Palindrome.py`](Two%20Pointers/125_Valid%20Palindrome.py) | ✅ |
+| 10 | [3Sum](https://leetcode.com/problems/3sum/) | Medium | [`Two Pointers/15_3Sum.py`](Two%20Pointers/15_3Sum.py) | ✅ |
+| 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | [`Two Pointers/11_Container With Most Water.py`](Two%20Pointers/11_Container%20With%20Most%20Water.py) | ✅ |
 
 ---
 
@@ -212,6 +212,7 @@
 
 ## Changelog
 
+- 2026-09-22: Added Two Pointers solutions and updated progress to 11/75.
 - 2026-09-22: Added Longest Consecutive Sequence and completed Arrays & Hashing. Updated progress to 8/75.
 - 2026-06-05: Updated README with Group Anagrams, Top K Frequent Elements, Encode & Decode Strings, and Product of Array Except Self. Updated progress to 7/75.
 - 2026-06-01: Updated README with Two Sum solution and updated progress to 3/75.
