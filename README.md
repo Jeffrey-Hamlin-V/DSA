@@ -2,7 +2,7 @@
 
 # 🃏 NeetCode 75 — DSA Progress Tracker
 
-![Progress](https://img.shields.io/badge/Progress-11%2F75-brightgreen?style=flat-square)
+![Progress](https://img.shields.io/badge/Progress-12%2F75-brightgreen?style=flat-square)
 
 *Solving one problem at a time. Consistency over intensity.*
 
@@ -35,11 +35,11 @@
 
 ---
 
-## 🪟 Sliding Window — 0 / 4
+## 🪟 Sliding Window — 1 / 4
 
 | # | Problem | Difficulty | Solution | Status |
 |---|---------|------------|----------|--------|
-| 12 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | | ⬜ |
+| 12 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | [`Sliding Window/121_Best Time to Buy and Sell Stock.py`](Sliding%20Window/121_Best%20Time%20to%20Buy%20and%20Sell%20Stock.py) | ✅ |
 | 13 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | | ⬜ |
 | 14 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | Medium | | ⬜ |
 | 15 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | Hard | | ⬜ |
@@ -212,6 +212,7 @@
 
 ## Changelog
 
+- 2026-09-23: Added Best Time to Buy and Sell Stock. Updated progress to 12/75.
 - 2026-09-22: Added Two Pointers solutions and updated progress to 11/75.
 - 2026-09-22: Added Longest Consecutive Sequence and completed Arrays & Hashing. Updated progress to 8/75.
 - 2026-06-05: Updated README with Group Anagrams, Top K Frequent Elements, Encode & Decode Strings, and Product of Array Except Self. Updated progress to 7/75.
