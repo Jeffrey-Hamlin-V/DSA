@@ -2,7 +2,7 @@
 
 # 🃏 NeetCode 75 — DSA Progress Tracker
 
-![Progress](https://img.shields.io/badge/Progress-15%2F75-brightgreen?style=flat-square)
+![Progress](https://img.shields.io/badge/Progress-16%2F75-brightgreen?style=flat-square)
 
 *Solving one problem at a time. Consistency over intensity.*
 
@@ -46,11 +46,11 @@
 
 ---
 
-## 📚 Stack — 0 / 1
+## 📚 Stack — 1 / 1
 
 | # | Problem | Difficulty | Solution | Status |
 |---|---------|------------|----------|--------|
-| 16 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | | ⬜ |
+| 16 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | [`Stack/20_Valid Parentheses.py`](Stack/20_Valid%20Parentheses.py) | ✅ |
 
 ---
 
@@ -212,6 +212,7 @@
 
 ## Changelog
 
+- 2026-09-25: Added Valid Parentheses and completed Stack. Updated progress to 16/75.
 - 2026-09-23: Added Minimum Window Substring and completed Sliding Window. Updated progress to 15/75.
 - 2026-09-23: Added Longest Repeating Character Replacement. Updated progress to 14/75.
 - 2026-09-23: Added Longest Substring Without Repeating Characters. Updated progress to 13/75.
