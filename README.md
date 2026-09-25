@@ -2,7 +2,7 @@
 
 # 🃏 NeetCode 75 — DSA Progress Tracker
 
-![Progress](https://img.shields.io/badge/Progress-17%2F75-brightgreen?style=flat-square)
+![Progress](https://img.shields.io/badge/Progress-18%2F75-brightgreen?style=flat-square)
 
 *Solving one problem at a time. Consistency over intensity.*
 
@@ -54,12 +54,12 @@
 
 ---
 
-## 🔍 Binary Search — 1 / 2
+## 🔍 Binary Search — 2 / 2
 
 | # | Problem | Difficulty | Solution | Status |
 |---|---------|------------|----------|--------|
 | 17 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Medium | [`Binary Search/153_Find Minimum in Rotated Sorted Array.py`](Binary%20Search/153_Find%20Minimum%20in%20Rotated%20Sorted%20Array.py) | ✅ |
-| 18 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | | ⬜ |
+| 18 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | [`Binary Search/33_Search in Rotated Sorted Array.py`](Binary%20Search/33_Search%20in%20Rotated%20Sorted%20Array.py) | ✅ |
 
 ---
 
@@ -212,6 +212,7 @@
 
 ## Changelog
 
+- 2026-09-25: Added Search in Rotated Sorted Array and completed Binary Search. Updated progress to 18/75.
 - 2026-09-25: Added Find Minimum in Rotated Sorted Array. Updated progress to 17/75.
 - 2026-09-25: Added Valid Parentheses and completed Stack. Updated progress to 16/75.
 - 2026-09-23: Added Minimum Window Substring and completed Sliding Window. Updated progress to 15/75.
