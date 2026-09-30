@@ -2,7 +2,7 @@
 
 # 🃏 NeetCode 75 — DSA Progress Tracker
 
-![Progress](https://img.shields.io/badge/Progress-24%2F75-brightgreen?style=flat-square)
+![Progress](https://img.shields.io/badge/Progress-35%2F75-brightgreen?style=flat-square)
 
 *Solving one problem at a time. Consistency over intensity.*
 
@@ -76,21 +76,21 @@
 
 ---
 
-## 🌳 Trees — 0 / 11
+## 🌳 Trees — 11 / 11
 
 | # | Problem | Difficulty | Solution | Status |
 |---|---------|------------|----------|--------|
-| 25 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy | | ⬜ |
-| 26 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | | ⬜ |
-| 27 | [Same Tree](https://leetcode.com/problems/same-tree/) | Easy | | ⬜ |
-| 28 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | Easy | | ⬜ |
-| 29 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | Medium | | ⬜ |
-| 30 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Medium | | ⬜ |
-| 31 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | Medium | | ⬜ |
-| 32 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | Medium | | ⬜ |
-| 33 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium | | ⬜ |
-| 34 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | Hard | | ⬜ |
-| 35 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | Hard | | ⬜ |
+| 25 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy | [`Trees/226_Invert Binary Tree.py`](Trees/226_Invert%20Binary%20Tree.py) | ✅ |
+| 26 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | [`Trees/104_Maximum Depth of Binary Tree.py`](Trees/104_Maximum%20Depth%20of%20Binary%20Tree.py) | ✅ |
+| 27 | [Same Tree](https://leetcode.com/problems/same-tree/) | Easy | [`Trees/100_Same Tree.py`](Trees/100_Same%20Tree.py) | ✅ |
+| 28 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | Easy | [`Trees/572_Subtree of Another Tree.py`](Trees/572_Subtree%20of%20Another%20Tree.py) | ✅ |
+| 29 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | Medium | [`Trees/235_Lowest Common Ancestor of a BST.py`](Trees/235_Lowest%20Common%20Ancestor%20of%20a%20BST.py) | ✅ |
+| 30 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Medium | [`Trees/102_Binary Tree Level Order Traversal.py`](Trees/102_Binary%20Tree%20Level%20Order%20Traversal.py) | ✅ |
+| 31 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | Medium | [`Trees/98_Validate Binary Search Tree.py`](Trees/98_Validate%20Binary%20Search%20Tree.py) | ✅ |
+| 32 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | Medium | [`Trees/230_Kth Smallest Element in a BST.py`](Trees/230_Kth%20Smallest%20Element%20in%20a%20BST.py) | ✅ |
+| 33 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium | [`Trees/105_Construct Binary Tree from Preorder and Inorder Traversal.py`](Trees/105_Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.py) | ✅ |
+| 34 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | Hard | [`Trees/124_Binary Tree Maximum Path Sum.py`](Trees/124_Binary%20Tree%20Maximum%20Path%20Sum.py) | ✅ |
+| 35 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | Hard | [`Trees/297_Serialize and Deserialize Binary Tree.py`](Trees/297_Serialize%20and%20Deserialize%20Binary%20Tree.py) | ✅ |
 
 ---
 
@@ -212,6 +212,7 @@
 
 ## Changelog
 
+- 2026-09-30: Added Trees solutions and completed Trees. Updated progress to 35/75.
 - 2026-09-30: Added Merge K Sorted Lists and completed Linked List. Updated progress to 24/75.
 - 2026-09-30: Added Remove Nth Node From End of List. Updated progress to 23/75.
 - 2026-09-30: Added Reorder List. Updated progress to 22/75.
