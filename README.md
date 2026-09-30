@@ -2,7 +2,7 @@
 
 # 🃏 NeetCode 75 — DSA Progress Tracker
 
-![Progress](https://img.shields.io/badge/Progress-21%2F75-brightgreen?style=flat-square)
+![Progress](https://img.shields.io/badge/Progress-22%2F75-brightgreen?style=flat-square)
 
 *Solving one problem at a time. Consistency over intensity.*
 
@@ -63,14 +63,14 @@
 
 ---
 
-## 🔗 Linked List — 3 / 6
+## 🔗 Linked List — 4 / 6
 
 | # | Problem | Difficulty | Solution | Status |
 |---|---------|------------|----------|--------|
 | 19 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | [`Linked List/206_Reverse Linked List.py`](Linked%20List/206_Reverse%20Linked%20List.py) | ✅ |
 | 20 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | [`Linked List/21_Merge Two Sorted Lists.py`](Linked%20List/21_Merge%20Two%20Sorted%20Lists.py) | ✅ |
 | 21 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | [`Linked List/141_Linked List Cycle.py`](Linked%20List/141_Linked%20List%20Cycle.py) | ✅ |
-| 22 | [Reorder List](https://leetcode.com/problems/reorder-list/) | Medium | | ⬜ |
+| 22 | [Reorder List](https://leetcode.com/problems/reorder-list/) | Medium | [`Linked List/143_Reorder List.py`](Linked%20List/143_Reorder%20List.py) | ✅ |
 | 23 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium | | ⬜ |
 | 24 | [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | | ⬜ |
 
@@ -212,6 +212,7 @@
 
 ## Changelog
 
+- 2026-09-30: Added Reorder List. Updated progress to 22/75.
 - 2026-09-30: Added Linked List Cycle. Updated progress to 21/75.
 - 2026-09-30: Added Merge Two Sorted Lists. Updated progress to 20/75.
 - 2026-09-30: Added Reverse Linked List. Updated progress to 19/75.
