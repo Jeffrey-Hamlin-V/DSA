@@ -2,7 +2,7 @@
 
 # 🃏 NeetCode 75 — DSA Progress Tracker
 
-![Progress](https://img.shields.io/badge/Progress-19%2F75-brightgreen?style=flat-square)
+![Progress](https://img.shields.io/badge/Progress-20%2F75-brightgreen?style=flat-square)
 
 *Solving one problem at a time. Consistency over intensity.*
 
@@ -63,12 +63,12 @@
 
 ---
 
-## 🔗 Linked List — 1 / 6
+## 🔗 Linked List — 2 / 6
 
 | # | Problem | Difficulty | Solution | Status |
 |---|---------|------------|----------|--------|
 | 19 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | [`Linked List/206_Reverse Linked List.py`](Linked%20List/206_Reverse%20Linked%20List.py) | ✅ |
-| 20 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | | ⬜ |
+| 20 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | [`Linked List/21_Merge Two Sorted Lists.py`](Linked%20List/21_Merge%20Two%20Sorted%20Lists.py) | ✅ |
 | 21 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | | ⬜ |
 | 22 | [Reorder List](https://leetcode.com/problems/reorder-list/) | Medium | | ⬜ |
 | 23 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium | | ⬜ |
@@ -212,6 +212,7 @@
 
 ## Changelog
 
+- 2026-09-30: Added Merge Two Sorted Lists. Updated progress to 20/75.
 - 2026-09-30: Added Reverse Linked List. Updated progress to 19/75.
 - 2026-09-25: Added Search in Rotated Sorted Array and completed Binary Search. Updated progress to 18/75.
 - 2026-09-25: Added Find Minimum in Rotated Sorted Array. Updated progress to 17/75.
