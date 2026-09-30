@@ -2,7 +2,7 @@
 
 # 🃏 NeetCode 75 — DSA Progress Tracker
 
-![Progress](https://img.shields.io/badge/Progress-22%2F75-brightgreen?style=flat-square)
+![Progress](https://img.shields.io/badge/Progress-23%2F75-brightgreen?style=flat-square)
 
 *Solving one problem at a time. Consistency over intensity.*
 
@@ -63,7 +63,7 @@
 
 ---
 
-## 🔗 Linked List — 4 / 6
+## 🔗 Linked List — 5 / 6
 
 | # | Problem | Difficulty | Solution | Status |
 |---|---------|------------|----------|--------|
@@ -71,7 +71,7 @@
 | 20 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | [`Linked List/21_Merge Two Sorted Lists.py`](Linked%20List/21_Merge%20Two%20Sorted%20Lists.py) | ✅ |
 | 21 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | [`Linked List/141_Linked List Cycle.py`](Linked%20List/141_Linked%20List%20Cycle.py) | ✅ |
 | 22 | [Reorder List](https://leetcode.com/problems/reorder-list/) | Medium | [`Linked List/143_Reorder List.py`](Linked%20List/143_Reorder%20List.py) | ✅ |
-| 23 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium | | ⬜ |
+| 23 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium | [`Linked List/19_Remove Nth Node From End of List.py`](Linked%20List/19_Remove%20Nth%20Node%20From%20End%20of%20List.py) | ✅ |
 | 24 | [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | | ⬜ |
 
 ---
@@ -212,6 +212,7 @@
 
 ## Changelog
 
+- 2026-09-30: Added Remove Nth Node From End of List. Updated progress to 23/75.
 - 2026-09-30: Added Reorder List. Updated progress to 22/75.
 - 2026-09-30: Added Linked List Cycle. Updated progress to 21/75.
 - 2026-09-30: Added Merge Two Sorted Lists. Updated progress to 20/75.
