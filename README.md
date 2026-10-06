@@ -2,7 +2,7 @@
 
 # 🃏 NeetCode 75 — DSA Progress Tracker
 
-![Progress](https://img.shields.io/badge/Progress-37%2F75-brightgreen?style=flat-square)
+![Progress](https://img.shields.io/badge/Progress-38%2F75-brightgreen?style=flat-square)
 
 *Solving one problem at a time. Consistency over intensity.*
 
@@ -102,12 +102,12 @@
 
 ---
 
-## 🔄 Backtracking — 1 / 2
+## 🔄 Backtracking — 2 / 2
 
 | # | Problem | Difficulty | Solution | Status |
 |---|---------|------------|----------|--------|
 | 37 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | Medium | [`Backtracking/39_Combination Sum.py`](Backtracking/39_Combination%20Sum.py) | ✅ |
-| 38 | [Word Search](https://leetcode.com/problems/word-search/) | Medium | | ⬜ |
+| 38 | [Word Search](https://leetcode.com/problems/word-search/) | Medium | [`Backtracking/79_Word Search.py`](Backtracking/79_Word%20Search.py) | ✅ |
 
 ---
 
@@ -212,6 +212,7 @@
 
 ## Changelog
 
+- 2026-10-06: Added Word Search and completed Backtracking. Updated progress to 38/75.
 - 2026-10-06: Added Combination Sum. Updated progress to 37/75.
 - 2026-10-06: Added Find Median from Data Stream and completed Heap / Priority Queue. Updated progress to 36/75.
 - 2026-09-30: Added Trees solutions and completed Trees. Updated progress to 35/75.
