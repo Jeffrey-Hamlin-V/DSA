@@ -2,7 +2,7 @@
 
 # 🃏 NeetCode 75 — DSA Progress Tracker
 
-![Progress](https://img.shields.io/badge/Progress-35%2F75-brightgreen?style=flat-square)
+![Progress](https://img.shields.io/badge/Progress-36%2F75-brightgreen?style=flat-square)
 
 *Solving one problem at a time. Consistency over intensity.*
 
@@ -94,11 +94,11 @@
 
 ---
 
-## 🔺 Heap / Priority Queue — 0 / 1
+## 🔺 Heap / Priority Queue — 1 / 1
 
 | # | Problem | Difficulty | Solution | Status |
 |---|---------|------------|----------|--------|
-| 36 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | Hard | | ⬜ |
+| 36 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | Hard | [`Heap - Priority Queue/295_Find Median from Data Stream.py`](Heap%20-%20Priority%20Queue/295_Find%20Median%20from%20Data%20Stream.py) | ✅ |
 
 ---
 
@@ -212,6 +212,7 @@
 
 ## Changelog
 
+- 2026-10-06: Added Find Median from Data Stream and completed Heap / Priority Queue. Updated progress to 36/75.
 - 2026-09-30: Added Trees solutions and completed Trees. Updated progress to 35/75.
 - 2026-09-30: Added Merge K Sorted Lists and completed Linked List. Updated progress to 24/75.
 - 2026-09-30: Added Remove Nth Node From End of List. Updated progress to 23/75.
