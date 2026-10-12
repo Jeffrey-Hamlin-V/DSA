@@ -2,7 +2,7 @@
 
 # 🃏 NeetCode 75 — DSA Progress Tracker
 
-![Progress](https://img.shields.io/badge/Progress-38%2F75-brightgreen?style=flat-square)
+![Progress](https://img.shields.io/badge/Progress-75%2F75-brightgreen?style=flat-square)
 
 *Solving one problem at a time. Consistency over intensity.*
 
@@ -111,17 +111,17 @@
 
 ---
 
-## 🌐 Tries — 0 / 3
+## 🌐 Tries — 3 / 3
 
 | # | Problem | Difficulty | Solution | Status |
 |---|---------|------------|----------|--------|
-| 39 | [Implement Trie Prefix Tree](https://leetcode.com/problems/implement-trie-prefix-tree/) | Medium | | ⬜ |
-| 40 | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | Medium | | ⬜ |
-| 41 | [Word Search II](https://leetcode.com/problems/word-search-ii/) | Hard | | ⬜ |
+| 39 | Implement Trie Prefix Tree | Medium | `Tries/208_Implement Trie.py` | ✅ |
+| 40 | Design Add and Search Words Data Structure | Medium | `Tries/211_Design Add and Search Words Data Structure.py` | ✅ |
+| 41 | Word Search II | Hard | `Tries/212_Word Search II.py` | ✅ |
 
 ---
 
-## 🗺 Graphs — 0 / 6
+## 🗺 Graphs — 7 / 7
 
 | # | Problem | Difficulty | Solution | Status |
 |---|---------|------------|----------|--------|
@@ -135,7 +135,7 @@
 
 ---
 
-## 💡 1-D Dynamic Programming — 0 / 10
+## 💡 1-D Dynamic Programming — 10 / 10
 
 | # | Problem | Difficulty | Solution | Status |
 |---|---------|------------|----------|--------|
@@ -152,7 +152,7 @@
 
 ---
 
-## 🧮 2-D Dynamic Programming — 0 / 2
+## 🧮 2-D Dynamic Programming — 2 / 2
 
 | # | Problem | Difficulty | Solution | Status |
 |---|---------|------------|----------|--------|
@@ -161,7 +161,7 @@
 
 ---
 
-## 💰 Greedy — 0 / 2
+## 💰 Greedy — 2 / 2
 
 | # | Problem | Difficulty | Solution | Status |
 |---|---------|------------|----------|--------|
@@ -170,7 +170,7 @@
 
 ---
 
-## ⏱ Intervals — 0 / 5
+## ⏱ Intervals — 5 / 5
 
 | # | Problem | Difficulty | Solution | Status |
 |---|---------|------------|----------|--------|
@@ -182,7 +182,7 @@
 
 ---
 
-## 📐 Math & Geometry — 0 / 3
+## 📐 Math & Geometry — 3 / 3
 
 | # | Problem | Difficulty | Solution | Status |
 |---|---------|------------|----------|--------|
@@ -192,7 +192,7 @@
 
 ---
 
-## 🔢 Bit Manipulation — 0 / 5
+## 🔢 Bit Manipulation — 5 / 5
 
 | # | Problem | Difficulty | Solution | Status |
 |---|---------|------------|----------|--------|
@@ -212,6 +212,7 @@
 
 ## Changelog
 
+- 2026-10-12: Added all remaining NeetCode 75 solutions and completed the tracker (75/75).
 - 2026-10-06: Added Word Search and completed Backtracking. Updated progress to 38/75.
 - 2026-10-06: Added Combination Sum. Updated progress to 37/75.
 - 2026-10-06: Added Find Median from Data Stream and completed Heap / Priority Queue. Updated progress to 36/75.
