@@ -115,9 +115,9 @@
 
 | # | Problem | Difficulty | Solution | Status |
 |---|---------|------------|----------|--------|
-| 39 | Implement Trie Prefix Tree | Medium | `Tries/208_Implement Trie.py` | ✅ |
-| 40 | Design Add and Search Words Data Structure | Medium | `Tries/211_Design Add and Search Words Data Structure.py` | ✅ |
-| 41 | Word Search II | Hard | `Tries/212_Word Search II.py` | ✅ |
+| 39 | [Implement Trie Prefix Tree](https://leetcode.com/problems/implement-trie-prefix-tree/) | Medium | [`Tries/208_Implement Trie.py`](Tries/208_Implement%20Trie.py) | ✅ |
+| 40 | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | Medium | [`Tries/211_Design Add and Search Words Data Structure.py`](Tries/211_Design%20Add%20and%20Search%20Words%20Data%20Structure.py) | ✅ |
+| 41 | [Word Search II](https://leetcode.com/problems/word-search-ii/) | Hard | [`Tries/212_Word Search II.py`](Tries/212_Word%20Search%20II.py) | ✅ |
 
 ---
 
@@ -125,13 +125,13 @@
 
 | # | Problem | Difficulty | Solution | Status |
 |---|---------|------------|----------|--------|
-| 42 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | Medium | | ⬜ |
-| 43 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | Medium | | ⬜ |
-| 44 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | Medium | | ⬜ |
-| 45 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | Medium | | ⬜ |
-| 46 | [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) | Medium | | ⬜ |
-| 47 | [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) | Medium | | ⬜ |
-| 48 | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/) | Hard | | ⬜ |
+| 42 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | Medium | [`Graphs/200_Number of Islands.py`](Graphs/200_Number%20of%20Islands.py) | ✅ |
+| 43 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | Medium | [`Graphs/133_Clone Graph.py`](Graphs/133_Clone%20Graph.py) | ✅ |
+| 44 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | Medium | [`Graphs/417_Pacific Atlantic Water Flow.py`](Graphs/417_Pacific%20Atlantic%20Water%20Flow.py) | ✅ |
+| 45 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | Medium | [`Graphs/207_Course Schedule.py`](Graphs/207_Course%20Schedule.py) | ✅ |
+| 46 | [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) | Medium | [`Graphs/261_Graph Valid Tree.py`](Graphs/261_Graph%20Valid%20Tree.py) | ✅ |
+| 47 | [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) | Medium | [`Graphs/323_Number of Connected Components in an Undirected Graph.py`](Graphs/323_Number%20of%20Connected%20Components%20in%20an%20Undirected%20Graph.py) | ✅ |
+| 48 | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/) | Hard | [`Graphs/269_Alien Dictionary.py`](Graphs/269_Alien%20Dictionary.py) | ✅ |
 
 ---
 
@@ -139,16 +139,16 @@
 
 | # | Problem | Difficulty | Solution | Status |
 |---|---------|------------|----------|--------|
-| 49 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy | | ⬜ |
-| 50 | [House Robber](https://leetcode.com/problems/house-robber/) | Medium | | ⬜ |
-| 51 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | Medium | | ⬜ |
-| 52 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | | ⬜ |
-| 53 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | Medium | | ⬜ |
-| 54 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | Medium | | ⬜ |
-| 55 | [Coin Change](https://leetcode.com/problems/coin-change/) | Medium | | ⬜ |
-| 56 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | Medium | | ⬜ |
-| 57 | [Word Break](https://leetcode.com/problems/word-break/) | Medium | | ⬜ |
-| 58 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | Medium | | ⬜ |
+| 49 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy | [`1-D Dynamic Programming/70_Climbing Stairs.py`](1-D%20Dynamic%20Programming/70_Climbing%20Stairs.py) | ✅ |
+| 50 | [House Robber](https://leetcode.com/problems/house-robber/) | Medium | [`1-D Dynamic Programming/198_House Robber.py`](1-D%20Dynamic%20Programming/198_House%20Robber.py) | ✅ |
+| 51 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | Medium | [`1-D Dynamic Programming/213_House Robber II.py`](1-D%20Dynamic%20Programming/213_House%20Robber%20II.py) | ✅ |
+| 52 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | [`1-D Dynamic Programming/5_Longest Palindromic Substring.py`](1-D%20Dynamic%20Programming/5_Longest%20Palindromic%20Substring.py) | ✅ |
+| 53 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | Medium | [`1-D Dynamic Programming/647_Palindromic Substrings.py`](1-D%20Dynamic%20Programming/647_Palindromic%20Substrings.py) | ✅ |
+| 54 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | Medium | [`1-D Dynamic Programming/91_Decode Ways.py`](1-D%20Dynamic%20Programming/91_Decode%20Ways.py) | ✅ |
+| 55 | [Coin Change](https://leetcode.com/problems/coin-change/) | Medium | [`1-D Dynamic Programming/322_Coin Change.py`](1-D%20Dynamic%20Programming/322_Coin%20Change.py) | ✅ |
+| 56 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | Medium | [`1-D Dynamic Programming/152_Maximum Product Subarray.py`](1-D%20Dynamic%20Programming/152_Maximum%20Product%20Subarray.py) | ✅ |
+| 57 | [Word Break](https://leetcode.com/problems/word-break/) | Medium | [`1-D Dynamic Programming/139_Word Break.py`](1-D%20Dynamic%20Programming/139_Word%20Break.py) | ✅ |
+| 58 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | Medium | [`1-D Dynamic Programming/300_Longest Increasing Subsequence.py`](1-D%20Dynamic%20Programming/300_Longest%20Increasing%20Subsequence.py) | ✅ |
 
 ---
 
@@ -156,8 +156,8 @@
 
 | # | Problem | Difficulty | Solution | Status |
 |---|---------|------------|----------|--------|
-| 59 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | Medium | | ⬜ |
-| 60 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | Medium | | ⬜ |
+| 59 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | Medium | [`2-D Dynamic Programming/62_Unique Paths.py`](2-D%20Dynamic%20Programming/62_Unique%20Paths.py) | ✅ |
+| 60 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | Medium | [`2-D Dynamic Programming/1143_Longest Common Subsequence.py`](2-D%20Dynamic%20Programming/1143_Longest%20Common%20Subsequence.py) | ✅ |
 
 ---
 
@@ -165,8 +165,8 @@
 
 | # | Problem | Difficulty | Solution | Status |
 |---|---------|------------|----------|--------|
-| 61 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium | | ⬜ |
-| 62 | [Jump Game](https://leetcode.com/problems/jump-game/) | Medium | | ⬜ |
+| 61 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium | [`Greedy/53_Maximum Subarray.py`](Greedy/53_Maximum%20Subarray.py) | ✅ |
+| 62 | [Jump Game](https://leetcode.com/problems/jump-game/) | Medium | [`Greedy/55_Jump Game.py`](Greedy/55_Jump%20Game.py) | ✅ |
 
 ---
 
@@ -174,11 +174,11 @@
 
 | # | Problem | Difficulty | Solution | Status |
 |---|---------|------------|----------|--------|
-| 63 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | Medium | | ⬜ |
-| 64 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | | ⬜ |
-| 65 | [Non Overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | Medium | | ⬜ |
-| 66 | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) | Easy | | ⬜ |
-| 67 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | Medium | | ⬜ |
+| 63 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | Medium | [`Intervals/57_Insert Interval.py`](Intervals/57_Insert%20Interval.py) | ✅ |
+| 64 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | [`Intervals/56_Merge Intervals.py`](Intervals/56_Merge%20Intervals.py) | ✅ |
+| 65 | [Non Overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | Medium | [`Intervals/435_Non-overlapping Intervals.py`](Intervals/435_Non-overlapping%20Intervals.py) | ✅ |
+| 66 | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) | Easy | [`Intervals/252_Meeting Rooms.py`](Intervals/252_Meeting%20Rooms.py) | ✅ |
+| 67 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | Medium | [`Intervals/253_Meeting Rooms II.py`](Intervals/253_Meeting%20Rooms%20II.py) | ✅ |
 
 ---
 
@@ -186,9 +186,9 @@
 
 | # | Problem | Difficulty | Solution | Status |
 |---|---------|------------|----------|--------|
-| 68 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | Medium | | ⬜ |
-| 69 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Medium | | ⬜ |
-| 70 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | Medium | | ⬜ |
+| 68 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | Medium | [`Math & Geometry/48_Rotate Image.py`](Math%20%26%20Geometry/48_Rotate%20Image.py) | ✅ |
+| 69 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Medium | [`Math & Geometry/54_Spiral Matrix.py`](Math%20%26%20Geometry/54_Spiral%20Matrix.py) | ✅ |
+| 70 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | Medium | [`Math & Geometry/73_Set Matrix Zeroes.py`](Math%20%26%20Geometry/73_Set%20Matrix%20Zeroes.py) | ✅ |
 
 ---
 
@@ -196,11 +196,11 @@
 
 | # | Problem | Difficulty | Solution | Status |
 |---|---------|------------|----------|--------|
-| 71 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | Easy | | ⬜ |
-| 72 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | Easy | | ⬜ |
-| 73 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | Easy | | ⬜ |
-| 74 | [Missing Number](https://leetcode.com/problems/missing-number/) | Easy | | ⬜ |
-| 75 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | Medium | | ⬜ |
+| 71 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | Easy | [`Bit Manipulation/191_Number of 1 Bits.py`](Bit%20Manipulation/191_Number%20of%201%20Bits.py) | ✅ |
+| 72 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | Easy | [`Bit Manipulation/338_Counting Bits.py`](Bit%20Manipulation/338_Counting%20Bits.py) | ✅ |
+| 73 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | Easy | [`Bit Manipulation/190_Reverse Bits.py`](Bit%20Manipulation/190_Reverse%20Bits.py) | ✅ |
+| 74 | [Missing Number](https://leetcode.com/problems/missing-number/) | Easy | [`Bit Manipulation/268_Missing Number.py`](Bit%20Manipulation/268_Missing%20Number.py) | ✅ |
+| 75 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | Medium | [`Bit Manipulation/371_Sum of Two Integers.py`](Bit%20Manipulation/371_Sum%20of%20Two%20Integers.py) | ✅ |
 
 ---
 
