@@ -210,28 +210,4 @@
 
 ---
 
-## Changelog
-
-- 2026-10-12: Added all remaining NeetCode 75 solutions and completed the tracker (75/75).
-- 2026-10-06: Added Word Search and completed Backtracking. Updated progress to 38/75.
-- 2026-10-06: Added Combination Sum. Updated progress to 37/75.
-- 2026-10-06: Added Find Median from Data Stream and completed Heap / Priority Queue. Updated progress to 36/75.
-- 2026-09-30: Added Trees solutions and completed Trees. Updated progress to 35/75.
-- 2026-09-30: Added Merge K Sorted Lists and completed Linked List. Updated progress to 24/75.
-- 2026-09-30: Added Remove Nth Node From End of List. Updated progress to 23/75.
-- 2026-09-30: Added Reorder List. Updated progress to 22/75.
-- 2026-09-30: Added Linked List Cycle. Updated progress to 21/75.
-- 2026-09-30: Added Merge Two Sorted Lists. Updated progress to 20/75.
-- 2026-09-30: Added Reverse Linked List. Updated progress to 19/75.
-- 2026-09-25: Added Search in Rotated Sorted Array and completed Binary Search. Updated progress to 18/75.
-- 2026-09-25: Added Find Minimum in Rotated Sorted Array. Updated progress to 17/75.
-- 2026-09-25: Added Valid Parentheses and completed Stack. Updated progress to 16/75.
-- 2026-09-23: Added Minimum Window Substring and completed Sliding Window. Updated progress to 15/75.
-- 2026-09-23: Added Longest Repeating Character Replacement. Updated progress to 14/75.
-- 2026-09-23: Added Longest Substring Without Repeating Characters. Updated progress to 13/75.
-- 2026-09-23: Added Best Time to Buy and Sell Stock. Updated progress to 12/75.
-- 2026-09-22: Added Two Pointers solutions and updated progress to 11/75.
-- 2026-09-22: Added Longest Consecutive Sequence and completed Arrays & Hashing. Updated progress to 8/75.
-- 2026-06-05: Updated README with Group Anagrams, Top K Frequent Elements, Encode & Decode Strings, and Product of Array Except Self. Updated progress to 7/75.
-- 2026-06-01: Updated README with Two Sum solution and updated progress to 3/75.
 
